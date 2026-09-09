@@ -45,3 +45,8 @@ in particular the `# per deploy` section at the top.
 ```bash
 docker-compose -f testnet/docker-compose.yml up
 ```
+
+
+## Parcours francais
+
+Lecture pedagogique en francais du code source de ce depot : voir docs/fr/README.md.
